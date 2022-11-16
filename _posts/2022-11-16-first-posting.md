@@ -1,9 +1,6 @@
 ---
-
 layout: post 
-
 title:  "Git Pages 작성법" 
-
 ---
 
 #   Git Pages 만들어 보자
