@@ -1,10 +1,10 @@
 ---
-layout: posts
-title:  "Git Pages 작성법" 
+title:  "Security 1" 
 author_profile: false
-sidebar:
-  nav: "main"
-categories: Security
+categories: security
+
+toc: true
+toc_sticky: true
 ---
 
 ## Git Pages 만들어 보자

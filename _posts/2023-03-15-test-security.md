@@ -1,8 +1,10 @@
 ---
-layout: posts
-title:  "Git Pages 작성법" 
+title:  "OAuth2" 
 author_profile: true
-categories: OAuth2.0
+categories: oauth2
+
+toc: true
+toc_sticky: true
 ---
 
 ## Git Pages 만들어 보자

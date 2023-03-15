@@ -24,18 +24,18 @@ docs:
     - title: "Security"
       url: /categories/security
       category: "security"
-    - title: "OAuth2.0"
-      url: categories/make_computing_system
-      category: "make_computing_system"
+    - title: "OAuth2"
+      url: /categories/oauth2
+      category: "oauth2"
     - title: "Batch"
-      url: categories/embedded_c_tdd
-      category: "embedded_c_tdd"
+      url: /categories/batch
+      category: "batch"
     - title: "Cloud"
-      url: categories/refactoring_2
-      category: "refactoring_2"
-
-- title: Algorithm
+      url: /categories/cloud
+      category: "cloud"
+- title: Server
   children:
-    - title: "2021 카카오 신입공채 코딩테스트"
-      url: /categories/2021_kakao_coding_test
-      category: "2021_kakao_coding_test"
+    - title: "Docker"
+      url: /categories/docker
+      category: "docker"
+
