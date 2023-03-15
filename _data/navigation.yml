@@ -1,12 +1,41 @@
-# main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "HOME"
+    url: /
+  - title: "PORTFOLIO"
+    url: /portfolio/
+  - title: "CATAGORIES"
+    url: /categories/
+  - title: "TAGS"
+    url: /tags/
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+docs:
+- title: Spring Boot
+  children:
+    - title: "Security"
+      url: /categories/security
+      category: "security"
+    - title: "OAuth2.0"
+      url: categories/make_computing_system
+      category: "make_computing_system"
+    - title: "Batch"
+      url: categories/embedded_c_tdd
+      category: "embedded_c_tdd"
+    - title: "Cloud"
+      url: categories/refactoring_2
+      category: "refactoring_2"
+
+- title: Algorithm
+  children:
+    - title: "2021 카카오 신입공채 코딩테스트"
+      url: /categories/2021_kakao_coding_test
+      category: "2021_kakao_coding_test"

@@ -3,8 +3,8 @@ layout: posts
 title:  "Git Pages 작성법" 
 author_profile: false
 sidebar:
-  nav: "docs"
-categories: security
+  nav: "main"
+categories: OAuth2.0
 ---
 
 ## Git Pages 만들어 보자
