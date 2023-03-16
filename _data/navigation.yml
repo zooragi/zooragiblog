@@ -38,4 +38,9 @@ docs:
     - title: "Docker"
       url: /categories/docker
       category: "docker"
+- title: 기타
+  children:
+    - title: "GitHub Blog"
+      url: /categories/githubblog
+      category: "githubblog"
 
