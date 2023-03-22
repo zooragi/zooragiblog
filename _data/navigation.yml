@@ -33,7 +33,7 @@ docs:
     - title: "Cloud"
       url: /categories/cloud
       category: "cloud"
-- title: Server
+- title: Devops
   children:
     - title: "Docker"
       url: /categories/docker
