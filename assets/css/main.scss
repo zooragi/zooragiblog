@@ -5,8 +5,8 @@ search: false
 
 @charset "utf-8";
 
-@import "../../_sass/minimal-mistakes/skins/default"; // skin
-@import "../../_sass/minimal-mistakes"; // main partials
+@import "minimal-mistakes/skins/default"; // skin
+@import "minimal-mistakes"; // main partials
 
 :root {
   --zoo-bg: #f4f6fb;
